@@ -1,0 +1,19 @@
+fiscal_year,period,cost_center,gl_account,budget,actual,currency,driver_note
+2026,1,IT Ops,Cloud Hosting,20000,22800,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,2,IT Ops,Cloud Hosting,20000,24100,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,3,IT Ops,Cloud Hosting,20000,25500,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,1,IT Ops,Software Licenses,8000,8100,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,2,IT Ops,Software Licenses,8000,7900,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,3,IT Ops,Software Licenses,8000,8200,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,1,Sales,Travel,4000,3000,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,2,Sales,Travel,4000,4400,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,3,Sales,Travel,4000,5200,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,1,Sales,Marketing Campaigns,10000,10800,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,2,Sales,Marketing Campaigns,10000,12800,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,3,Sales,Marketing Campaigns,10000,15000,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,1,Finance,Payroll,30000,29500,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,2,Finance,Payroll,30000,30000,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,3,Finance,Payroll,30000,30500,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,1,Finance,External Consulting,0,2500,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,2,Finance,External Consulting,5000,7000,SGD,Synthetic scenario; supporting evidence must be validated.
+2026,3,Finance,External Consulting,5000,8000,SGD,Synthetic scenario; supporting evidence must be validated.
